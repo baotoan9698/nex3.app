@@ -1,0 +1,1980 @@
+{
+  "framer-1toebbu": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -4.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 0.8,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-ahxizl": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": 4.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-xwwp7a": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": 4.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-cbf5bj": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": 20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 0.8,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-62vwze": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1svnice": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-d2ynf1": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -30.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1it4l7d": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1hfbipl": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-11v3m5d": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-16x42hc": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.4,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-139kw42": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1qyix8q": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-bx2uvt": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1wxnylc": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1sq2l4d": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-tk2uks": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1ytkwws": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 0.9,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -14.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1czex30": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-4b5w7j": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.6,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1hpm53l": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-172db47": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-10jwdk8": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1068s2e": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-3c0yrv": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1yj5m0h": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": 4.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1yujobf": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -4.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 0.8,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-wouyg4": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": 4.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1jdoycp": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": 20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 0.8,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-s9ebp0": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1ofxygf": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-987fhk": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -15.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-z79vfr": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1pbhf23": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -30.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-17y3uf4": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -15.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-tyi916": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -28.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-bsyg8j": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -10.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1iay0dn": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -10.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1p094h6": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1r6c7j1": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-wyn4vn": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-rqocrr": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-ja7qqg": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1a5yz5i": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1vg17kq": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-aj0l8v": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1ycd8su": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-16p7xxc": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1aj1bii": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1e2jldu": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 0.9,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -14.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1lmzyz0": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1t3dlif": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 360.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": 0.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.0,
+      "ease": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  "framer-1h48n5s": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -30.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 3.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-16t1eyy": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -25.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 3.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1m55ode": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -30.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 3.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-7drcva": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -30.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.9,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-8nlhzz": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -25.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 3.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-p4tdj9": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -30.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 3.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1nmohuq": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -30.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 3.0,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-z28hmk": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -15.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.8,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-16egcpl": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.8,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-uikwl2": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -8.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.7,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-102fypd": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.7,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-o7nawl": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-wo36nd": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1cnmba3": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -40.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1nrgfc8": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-vx4far": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-z2saj6": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-13tjfvs": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -30.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-p09d3n": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -35.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-z6uij0": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -40.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-cjg55k": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -25.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-16ond76": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1f7kvnq": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1elvh41": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-lb0vz3": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1hdzmeu": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -15.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.8,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1mus2ff": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -20.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.8,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-s9pp1t": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": 40.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-19wmqul": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -40.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-mjiil0": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": 40.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-18on6rn": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -40.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-qycojq": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": 40.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-17i1900": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 0.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": -40.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 2.5,
+      "ease": [
+        0.44,
+        0.0,
+        0.56,
+        1.0
+      ]
+    }
+  },
+  "framer-1iq9rel": {
+    "target": {
+      "opacity": 1.0,
+      "rotate": 360.0,
+      "rotateX": 0.0,
+      "rotateY": 0.0,
+      "scale": 1.0,
+      "skewX": 0.0,
+      "skewY": 0.0,
+      "x": 0.0,
+      "y": 0.0
+    },
+    "transition": {
+      "delay": 0.0,
+      "duration": 1.0,
+      "ease": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+}

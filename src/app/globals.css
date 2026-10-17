@@ -1,0 +1,77 @@
+html { scroll-behavior: smooth; scroll-padding-top: 100px; }
+body { margin: 0; }
+* { box-sizing: border-box; }
+button, input, textarea { font: inherit; }
+a, button, summary, [role="link"] { -webkit-tap-highlight-color: transparent; }
+:focus-visible { outline: 3px solid #8645ed !important; outline-offset: 5px; }
+#nex3-site { min-height: 100vh; overflow: clip; }
+#nex3-site a { transition: filter .25s ease, box-shadow .25s ease; }
+#nex3-site a[data-highlight]:hover { filter: brightness(1.07); box-shadow: 0 10px 30px #7046df26; }
+[data-nex-explore] { cursor: pointer; }
+[data-nex-explore]:hover { filter: brightness(1.06); }
+.nex-header-scrolled { backdrop-filter: blur(16px); background: #ffffffc9; transition: background .3s; }
+
+.nex-faq { width: 100%; font-family: Inter, sans-serif; color: #000; padding: 30px 0; }
+.nex-faq summary { list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 24px; cursor: pointer; font-size: 20px; font-weight: 500; line-height: 1.5; }
+.nex-faq summary::-webkit-details-marker { display: none; }
+.nex-faq-plus { flex: 0 0 16px; width: 16px; height: 16px; position: relative; }
+.nex-faq-plus::before, .nex-faq-plus::after { content: ''; position: absolute; top: 7px; left: 0; height: 2px; width: 16px; border-radius: 1px; background: currentColor; transition: transform .3s; }
+.nex-faq-plus::after { transform: rotate(90deg); }
+.nex-faq[open] .nex-faq-plus::after { transform: rotate(0); }
+.nex-faq-answer { color: #667085; font-size: 16px; line-height: 1.7; padding: 14px 42px 0 0; }
+.nex-faq-answer p { margin: 0; }
+.nex-faq-inverse { color: #fff; }
+.nex-faq-inverse .nex-faq-answer { color: #d0d5dd; white-space: pre-line; }
+.nex-faq[open] .nex-faq-answer { animation: nex-faq-in .3s ease both; }
+@keyframes nex-faq-in { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
+
+.nex-carousel { width: 100%; height: 100%; min-height: 300px; position: relative; }
+.nex-carousel-viewport { display: flex; width: 100%; height: 100%; overflow-x: auto; scroll-snap-type: x mandatory; gap: 8px; scrollbar-width: none; overscroll-behavior-x: contain; }
+.nex-carousel-viewport::after { content: ''; flex: 0 0 calc(50% - 4px); }
+.nex-carousel-viewport::-webkit-scrollbar { display: none; }
+.nex-carousel-card { flex: 0 0 calc(50% - 4px); height: 100%; scroll-snap-align: start; }
+.nex-carousel-card > div { width: 100% !important; opacity: 1 !important; visibility: visible !important; transform: none !important; }
+.nex-carousel-card img { transition: transform .65s cubic-bezier(.2,.8,.2,1); }
+.nex-carousel-card:hover img { transform: scale(1.035); }
+.nex-carousel-arrows { position: absolute; inset: 0 20px; display: flex; align-items: center; justify-content: space-between; pointer-events: none; }
+.nex-carousel-arrows button { width: 40px; height: 40px; border-radius: 50%; border: none; color: white; background: #0005; cursor: pointer; pointer-events: auto; font-size: 24px; transition: background .2s; }
+.nex-carousel-arrows button:hover { background: #7752e9; }
+.nex-carousel-dots { position: absolute; left: 50%; transform: translateX(-50%); bottom: -30px; display: flex; gap: 5px; border-radius: 30px; background: #0003; padding: 5px; }
+.nex-carousel-dots button { background: #fff8; border: none; border-radius: 50%; width: 7px; height: 7px; padding: 0; cursor: pointer; }
+.nex-carousel-dots button[aria-current] { background: white; }
+
+.nex-form-fields { display: contents; border: 0; margin: 0; padding: 0; }
+.nex-form-status { font-family: Inter, sans-serif; font-size: 14px; line-height: 1.6; width: 100%; color: #475467; padding: 12px; background: #f2edff; border-radius: 8px; }
+.nex-form-status a { display: block; color: #6f35d0; text-decoration: underline; margin-top: 8px; }
+form[aria-busy="true"] { opacity: .65; }
+.nex-mobile-nav { display: none; }
+
+/* Architecture milestones are reversible scroll states, not entry reveals. */
+#product[data-nex-architecture] [data-framer-name="Icon"] > :nth-child(2) {
+  opacity: 0 !important;
+  transition: opacity .25s ease;
+}
+#product[data-nex-architecture] [data-nex-reached="true"] [data-framer-name="Icon"] > :nth-child(2) {
+  opacity: 1 !important;
+}
+#product[data-nex-architecture] [data-framer-name="Fill"] {
+  transform-origin: top;
+  will-change: transform;
+}
+@media (max-width: 809.98px) {
+  .nex-faq { padding: 24px 0; }
+  .nex-faq summary { font-size: 18px; }
+  .nex-carousel-card { flex-basis: 100%; }
+  .nex-carousel-viewport { padding-right: 0; }
+  .nex-carousel-viewport::after { display: none; }
+  .nex-mobile-nav { display: block; }
+  .nex-menu-toggle { position: fixed; z-index: 10002; top: 15px; right: 22px; width: 42px; height: 42px; border: 0; background: #ffffffbd; color: #6040ba; backdrop-filter: blur(12px); border-radius: 9px; font-size: 25px; cursor: pointer; }
+  .nex-mobile-panel { position: fixed; z-index: 10001; inset: 0; background: #fff; padding: 95px 30px 40px; overflow-y: auto; animation: nex-faq-in .25s ease; }
+  .nex-mobile-panel nav { display: flex; flex-direction: column; gap: 25px; }
+  .nex-mobile-panel a { font-family: Inter, sans-serif; color: #344054; text-decoration: none; font-weight: 500; font-size: 24px; }
+  .nex-mobile-panel .nex-mobile-launch { color: white; font-size: 18px; background: linear-gradient(#34cbe3, #8c30f5); padding: 14px 22px; border-radius: 10px; width: fit-content; margin-top: 15px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
+}
