@@ -45,6 +45,9 @@ a, button, summary, [role="link"] { -webkit-tap-highlight-color: transparent; }
 .nex-form-status a { display: block; color: #6f35d0; text-decoration: underline; margin-top: 8px; }
 form[aria-busy="true"] { opacity: .65; }
 .nex-mobile-nav { display: none; }
+.nex-mobile-architecture-art { position: absolute; inset: 0; overflow: hidden; }
+.nex-mobile-art-canvas { width: 611px; height: 561px; position: absolute; left: 50%; top: 50%; transform-origin: center; }
+.nex-mobile-art-canvas .framer-kKgAQ .framer-66biz4 { justify-content: center !important; padding: 0 !important; gap: 0; }
 
 /* Architecture milestones are reversible scroll states, not entry reveals. */
 #product[data-nex-architecture] [data-framer-name="Icon"] > :nth-child(2) {
@@ -59,6 +62,20 @@ form[aria-busy="true"] { opacity: .65; }
   will-change: transform;
 }
 @media (max-width: 809.98px) {
+  /* Let mobile copy plus the animated drawing determine each step's height.
+     Fixed 100vh rows cropped the lower layers on narrow/short phones. */
+  #product #timeline1, #product #timeline2, #product #timeline3 {
+    height: auto;
+    min-height: 100svh;
+    align-items: stretch;
+    overflow: visible;
+  }
+  #product .framer-1mj5f3t, #product .framer-mhdy5y, #product .framer-1tav1rx {
+    height: auto;
+    padding-bottom: 48px;
+    overflow: visible;
+  }
+  #product [data-framer-name="Progressbar wrapper"] { height: auto; align-self: stretch; }
   .nex-faq { padding: 24px 0; }
   .nex-faq summary { font-size: 18px; }
   .nex-carousel-card { flex-basis: 100%; }

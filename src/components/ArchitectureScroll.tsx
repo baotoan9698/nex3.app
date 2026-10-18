@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect } from 'react';
+import { useEffect, useRef, useState, type ReactNode } from 'react';
 
 const desktopVariants = ['framer-v-16vo0c9', 'framer-v-1ikofib', 'framer-v-pgu32m'];
 const tabletVariants = ['framer-v-tj0ynh', 'framer-v-6e0jup', 'framer-v-p5qm4u'];
@@ -16,7 +16,7 @@ export function ArchitectureScroll() {
     const rows = ['timeline1', 'timeline2', 'timeline3'].map(id => section.querySelector<HTMLElement>(`#${id}`));
     if (rows.some(row => !row)) return;
     const steps = rows as HTMLElement[];
-    const artwork = [...section.querySelectorAll<HTMLElement>('.framer-kKgAQ, .framer-FgFaD')];
+    const artwork = [...section.querySelectorAll<HTMLElement>('.framer-kKgAQ, .framer-FgFaD')].filter(panel => !panel.closest('[data-nex-mobile-art]'));
     const reduced = matchMedia('(prefers-reduced-motion: reduce)');
     const transitions = new Map<HTMLElement, Animation>();
     const layerEntries = new Map<HTMLElement, string>();
@@ -121,4 +121,45 @@ export function ArchitectureScroll() {
     };
   }, []);
   return null;
+}
+
+/** Mobile keeps one drawing beside each milestone rather than a sticky strip. */
+export function MobileArchitectureArt({ children, stage, label }: { children: ReactNode; stage: number; label: string }) {
+  const root = useRef<HTMLDivElement>(null);
+  const [scale, setScale] = useState(0);
+  useEffect(() => {
+    const container = root.current;
+    if (!container) return;
+    const reduced = matchMedia('(prefers-reduced-motion: reduce)');
+    const animations: Animation[] = [];
+    const layers = [...container.querySelectorAll<HTMLElement>('[data-framer-name]')].filter(layer => {
+      const pose = layer.dataset.nexLayerInitial || layer.style.transform;
+      return /^layer \d+$/i.test(layer.dataset.framerName || '') && layer.style.willChange.includes('transform') && pose && pose !== 'none' && !pose.includes('%');
+    });
+    const initial = layers.map(layer => layer.dataset.nexLayerInitial || layer.style.transform);
+    layers.forEach((layer, index) => { layer.dataset.nexLayerInitial = initial[index]; layer.style.transform = 'none'; });
+    const resize = new ResizeObserver(([entry]) => {
+      setScale(Math.min(entry.contentRect.width / 611, entry.contentRect.height / 561));
+    });
+    resize.observe(container);
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (!entry.isIntersecting || reduced.matches) return;
+        animations.forEach(animation => animation.cancel());
+        layers.forEach((layer, index) => {
+          animations.push(layer.animate([{ transform: initial[index] }, { transform: 'none' }], {
+            duration: 1000, easing: 'cubic-bezier(.16, 1, .3, 1)',
+          }));
+        });
+        const canvas = container.querySelector<HTMLElement>('.nex-mobile-art-canvas');
+        if (canvas) animations.push(canvas.animate([{ opacity: 0, translate: '0 18px' }, { opacity: 1, translate: '0 0' }], { duration: 700, easing: 'ease-out' }));
+        container.dataset.nexAnimated = 'true';
+      });
+    }, { threshold: 0.15 });
+    observer.observe(container);
+    return () => { resize.disconnect(); observer.disconnect(); animations.forEach(animation => animation.cancel()); };
+  }, []);
+  return <div ref={root} className="nex-mobile-architecture-art" data-nex-mobile-art={stage} role="img" aria-label={`${label} animated illustration`}>
+    <div className="nex-mobile-art-canvas" style={{ transform: `translate(-50%, -50%) scale(${scale})` }}>{children}</div>
+  </div>;
 }

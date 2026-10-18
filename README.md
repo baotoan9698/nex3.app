@@ -28,6 +28,7 @@ Deploy bằng Vercel hoặc máy chủ hỗ trợ Node.js/Next.js; không cần 
 - 319 file hình ảnh/font được lưu trong `public/assets/`.
 - Bố cục và CSS responsive của thiết kế gốc, kể cả các hình SVG và gradient.
 - Animation xuất hiện khi cuộn, hiệu ứng nổi lặp lại, hover, carousel có autoplay/nút điều hướng/swipe, FAQ và accordion Solutions.
+- Trên mobile, ba layer Protocol Architecture dùng SVG động thay ảnh PNG tĩnh; các mục tự giãn chiều cao để không cắt hình trên màn hình hẹp.
 - Menu mobile, hỗ trợ bàn phím và tùy chọn giảm chuyển động của hệ điều hành.
 
 ## Cấu trúc và chỉnh sửa
